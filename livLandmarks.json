@@ -10,252 +10,294 @@
      "latitude":53.381206,
      "longitude":-2.945778,
      "category":"shopping",
-     "description":"Lark Lane is a beautiful bohemian street with restaurants, pubs and shops" 
+     "description":"Lark Lane is a beautiful bohemian street with restaurants, pubs and shops",
+     "link":"#shopping"
     },
     {"name":"boldStreet",
      "latitude":53.404414 ,
      "longitude":-2.981002 ,
      "category":"shopping",
-     "description":"The iconic Bold Street restaurant area" 
+     "description":"The iconic Bold Street restaurant area",
+     "link":"#shopping"
     },
     {"name":"chinaTown",
     "latitude":53.399964 ,
     "longitude":-2.977109 ,
     "category":"shopping" ,
-    "description": "Liverpool's Chinatown was the first to be established in Europe"
+    "description": "Liverpool's Chinatown was the first to be established in Europe",
+     "link":"#shopping"
     },
     {"name":"metCathedral",
     "latitude":53.404865, 
     "longitude":-2.968655,
     "category":"buildings" ,
-    "description": "Liverpool Metropolitan Cathedral, with its modern tower"
+    "description": "Liverpool Metropolitan Cathedral, with its modern tower",
+     "link":"#buildings"
     },
     {"name":"livCathedral",
     "latitude":53.397410,  
     "longitude":-2.973248,
     "category":"buildings",
-    "description":"Liverpool Cathedral, with its gothic style building and tower" 
+    "description":"Liverpool Cathedral, with its gothic style building and tower",
+     "link":"#buildings"
     },
     {"name":"bombedOutChurch",
     "latitude":53.401802,  
     "longitude":-2.9750655,
     "category":"buildings" ,
-    "description":"St. Luke's or 'The Bombed Out Church', site of a WWII bombing" 
+    "description":"St. Luke's or 'The Bombed Out Church', site of a WWII bombing",
+     "link":"#buildings"
     },
     {"name":"liverBuild",
     "latitude":53.405655,  
     "longitude":-2.996356,
     "category":"buildings" ,
-    "description": "The Royal Liver Building, one of Liverpool's Three Graces"
+    "description": "The Royal Liver Building, one of Liverpool's Three Graces",
+     "link":"#buildings"
     },
     {"name":"cunardBuild",
     "latitude":53.405004,  
     "longitude":-2.995806,
     "category":"buildings" ,
-    "description": "The Cunard Building, one of Liverpool's Three Graces"
+    "description": "The Cunard Building, one of Liverpool's Three Graces",
+     "link":"#buildings"
     },
     {"name":"portBuild",
     "latitude":53.404272,  
     "longitude":-2.995165,
     "category": "buildings",
-    "description": "The Port of Liverpool Building, one of Liverpool's Three Graces"
+    "description": "The Port of Liverpool Building, one of Liverpool's Three Graces",
+     "link":"#buildings"
     },
     {"name":"pennyLane",
     "latitude":53.386859,  
     "longitude":-2.919551,
     "category":"beatle" ,
-    "description": "Penny Lane, the inspiration behind the Beatles' song"
+    "description": "Penny Lane, the inspiration behind the Beatles' song",
+     "link":"#beatles"
     },
     {"name":"beatleStat",
     "latitude":53.4044504,  
     "longitude":-2.996333,
     "category": "beatle",
-    "description": "The Beatles Statue. Take your picture with the Fab Four"
+    "description": "The Beatles Statue. Take your picture with the Fab Four",
+     "link":"#beatles"
     },
     {"name":"beatleStory",
     "latitude":53.3992908,  
     "longitude":-2.9923737,
     "category":"beatle" ,
-    "description": "The Beatles Story, a must-visit museum for any Beatles fan"
+    "description": "The Beatles Story, a must-visit museum for any Beatles fan",
+     "link":"#beatles"
     },
     {"name":"anfield",
     "latitude":53.430802,  
     "longitude":-2.960885,
     "category": "football",
-    "description": "Anfield, the home of Liverpool Football Club"
+    "description": "Anfield, the home of Liverpool Football Club",
+     "link":"#football"
     },
     {"name":"goodison",
     "latitude":53.438767,  
     "longitude":-2.966299,
     "category":"football" ,
-    "description": "Goodison Park, the home of Everton Football Club"
+    "description": "Goodison Park, the home of Everton Football Club",
+     "link":"#football"
     },
     {"name":"tate",
     "latitude":53.400869,  
     "longitude":-2.994512,
     "category":"galleries" ,
-    "description": "Tate Liverpool"
+    "description": "Tate Liverpool",
+     "link":"#museums"
     },
     {"name":"bluecoat",
     "latitude":53.404172,  
     "longitude":-2.983806,
     "category":"galleries buildings" ,
-    "description": "The Bluecoat, a Grade I listed arts centre and the oldest building in the city"
+    "description": "The Bluecoat, a Grade I listed arts centre and the oldest building in the city",
+     "link":"#museums"
     },
     {"name":"walker",
     "latitude":53.410018,  
     "longitude":-2.979718,
     "category":"galleries" ,
-    "description": "Walker Art Gallery"
+    "description": "Walker Art Gallery",
+     "link":"#museums"
     },
     {"name":"sefton",
     "latitude":53.383031,  
     "longitude":-2.938869,
     "category":"parks family" ,
-    "description": "The beautiful 200 acre Sefton Park"
+    "description": "The beautiful 200 acre Sefton Park",
+     "link":"#parks"
     },
     {"name":"calderstones",
     "latitude":53.380142,  
     "longitude":-2.893929,
     "category":"parks family" ,
-    "description": "The beautiful and family-friendly Calderstones Park"
+    "description": "The beautiful and family-friendly Calderstones Park",
+     "link":"#parks"
     },
     {"name":"ottersPool",
     "latitude":53.359110,  
     "longitude":-2.926925,
     "category":"parks family" ,
-    "description": "Otter's Pool park and promenade is great for walking and cycling"
+    "description": "Otter's Pool park and promenade is great for walking and cycling",
+     "link":"#parks"
     },
     {"name":"stanley",
     "latitude":53.435241,  
     "longitude":-2.963147,
     "category":"parks family" ,
-    "description": "Stanley Park, right between Anfield and Goodison Park"
+    "description": "Stanley Park, right between Anfield and Goodison Park",
+     "link":"#parks"
     },
     {"name":"ness",
     "latitude":53.272142,  
     "longitude":-3.041887,
     "category":"parks" ,
-    "description": "Ness Botanical Gardens on the Wirral Peninsula"
+    "description": "Ness Botanical Gardens on the Wirral Peninsula",
+     "link":"#parks"
     },
     {"name":"birkenhead",
     "latitude":53.394065,  
     "longitude":-3.043569,
     "category":"parks" ,
-    "description":"Birkenhead Park, which is generally acknowledged to have been the model for New York's Central Park" 
+    "description":"Birkenhead Park, which is generally acknowledged to have been the model for New York's Central Park",
+     "link":"#parks"
     },
     {"name":"uBoat",
     "latitude":53.394988,  
     "longitude":-3.009580,
     "category":"museum family" ,
-    "description": "U-Boat Story, a real German U-boat"
+    "description": "U-Boat Story, a real German U-boat",
+     "link":"#museums"
     },
     {"name":"spaceport",
     "latitude":53.409320,  
     "longitude":-3.017469,
     "category":"museum family" ,
-    "description": "Spaceport planetarium and spacecraft simulator"
+    "description": "Spaceport planetarium and spacecraft simulator",
+     "link":"#museums"
     },
     {"name":"bme",
     "latitude":53.404986,  
     "longitude":-2.995735,
     "category":"museum" ,
-    "description": "The BME tells the story of British Music"
+    "description": "The BME tells the story of British Music",
+     "link":"#museums"
     },
     {"name":"transportM",
     "latitude":53.396381,  
     "longitude":-3.019459,
     "category":"museum family" ,
-    "description": "Wirral Transport Museum & Heritage Tramway"
+    "description": "Wirral Transport Museum & Heritage Tramway",
+     "link":"#museums"
     },
     {"name":"portS",
     "latitude":53.354862,  
     "longitude":-2.998169,
     "category":"museum family" ,
-    "description": "Port Sunlight Museum & Garden Village"
+    "description": "Port Sunlight Museum & Garden Village",
+     "link":"#museums"
     },
     {"name":"livMus",
     "latitude":53.402861,  
     "longitude":-2.995647,
     "category": "museum",
-    "description": "The Museum of Liverpool"
+    "description": "The Museum of Liverpool",
+     "link":"#museums"
     },
     {"name":"worldMus",
     "latitude":53.409949,  
     "longitude":-2.981564,
     "category":"museum family" ,
-    "description": "The World Museum and Aquarium"
+    "description": "The World Museum and Aquarium",
+     "link":"#museums"
     },
     {"name":"maritime",
     "latitude":53.401304,  
     "longitude":-2.992853,
     "category":"museum family" ,
-    "description": "The Merseyside Maritime Museum"
+    "description": "The Merseyside Maritime Museum",
+     "link":"#museums"
     },
     {"name":"slavery",
     "latitude":53.401237,  
     "longitude":-2.993309,
     "category": "museum",
-    "description": "The International Slavery Museum"
+    "description": "The International Slavery Museum",
+     "link":"#museums"
     },
     {"name":"evertonTwo",
     "latitude":53.404000,  
     "longitude":-2.987290,
     "category": "football",
-    "description": "Everton Two, the official club store of Everton Football Club"
+    "description": "Everton Two, the official club store of Everton Football Club",
+     "link":"#football"
     },
     {"name":"lfc1",
     "latitude":53.406697,  
     "longitude":-2.982930,
     "category":"football" ,
-    "description": "LFC Club Store, where you can buy official Liverpool merchandise"
+    "description": "LFC Club Store, where you can buy official Liverpool merchandise",
+     "link":"#football"
     },
     {"name":"lfc2",
     "latitude":53.404137,  
     "longitude":-2.987231,
     "category":"football" ,
-    "description": "LFC Club Store, where you can buy official Liverpool merchandise"
+    "description": "LFC Club Store, where you can buy official Liverpool merchandise",
+     "link":"#football"
     },
     {"name":"dovey",
     "latitude":53.387122,  
     "longitude":-2.918702,
     "category":"beatle" ,
-    "description": "Dovedale Towers, where John Lennon performed and Freddie Mercury rented a flat"
+    "description": "Dovedale Towers, where John Lennon performed and Freddie Mercury rented a flat",
+     "link":"#beatles"
     },
     {"name":"mendips",
     "latitude":53.377209,  
     "longitude":-2.881483,
     "category":"beatle" ,
-    "description": "Mendips, the childhood home of John Lennon"
+    "description": "Mendips, the childhood home of John Lennon",
+     "link":"#beatles"
     },
     {"name":"forthlin",
     "latitude":53.369586,  
     "longitude":-2.897812,
     "category":"beatle" ,
-    "description": "20 Forthlin Road, the childhood home of Paul McCartney"
+    "description": "20 Forthlin Road, the childhood home of Paul McCartney",
+     "link":"#beatles"
     },
     {"name":"eleanor",
     "latitude":53.406833,  
     "longitude":-2.986348,
     "category":"beatle" ,
-    "description": "Statue of Eleanor Rigby"
+    "description": "Statue of Eleanor Rigby",
+     "link":"#beatles"
     },
     {"name":"cavernC",
     "latitude":53.406384,  
     "longitude":-2.988037,
     "category":"beatle" ,
-    "description": "The Cavern Club, venue of the Beatles' first performance"
+    "description": "The Cavern Club, venue of the Beatles' first performance",
+     "link":"#beatles"
     },
     {"name":"spekeH",
     "latitude":53.336422,  
     "longitude":-2.873606,
     "category":"buildings family parks" ,
-    "description": "Speke Hall dates from 1530 and has beautiful Tudor architecture"
+    "description": "Speke Hall dates from 1530 and has beautiful Tudor architecture",
+     "link":"#parks"
     },
     {"name":"townHall",
     "latitude":53.407041,  
     "longitude":-2.991519,
     "category":"buildings" ,
-    "description": "Liverpool Town Hall is a Grade I listed 18th century building"
+    "description": "Liverpool Town Hall is a Grade I listed 18th century building",
+     "link":"#buildings"
     }   
 ]
