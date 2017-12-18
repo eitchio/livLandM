@@ -186,8 +186,8 @@
     "description": "The World Museum and Aquarium"
     },
     {"name":"maritime",
-    "latitude":53.401304, - 
-    "longitude":2.992853,
+    "latitude":53.401304,  
+    "longitude":-2.992853,
     "category":"museum family" ,
     "description": "The Merseyside Maritime Museum"
     },
