@@ -3,7 +3,8 @@
      "latitude":53.403641,
      "longitude":-2.987286,
      "category":"shopping" ,
-     "description": "Liverpool One is a world famous open-air shopping and restaurant hub" 
+     "description": "Liverpool One is a world famous open-air shopping and restaurant hub",
+     "link":"#shopping"
     },
     {"name":"larkLane",
      "latitude":53.381206,
