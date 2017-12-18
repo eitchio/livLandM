@@ -1,0 +1,26 @@
+[
+    {"name":"liverpoolOne",
+     "latitude":53.404414 ,
+     "longitude":-2.981002 ,
+     "category":"shopping" ,
+     "description": "Liverpool One is a world famous open-air shopping and restaurant hub" 
+    },
+    {"name":"larkLane",
+     "latitude":53.381206,
+     "longitude":-2.945778,
+     "category":"shopping",
+     "description":"Lark Lane is a beautiful bohemian street with restaurants, pubs and shops" 
+    },
+    {"name":"boldStreet",
+     "latitude":53.404414 ,
+     "longitude":-2.981002 ,
+     "category":"shopping",
+     "description":"The iconic Bold Street restaurant area" 
+    },
+    {"name":"chinaTown",
+    "latitude":53.399964 ,
+    "longitude":-2.977109 ,
+    "category":"shopping" ,
+    "description": "Liverpool's Chinatown was the first to be established in Europe"
+    }   
+]
